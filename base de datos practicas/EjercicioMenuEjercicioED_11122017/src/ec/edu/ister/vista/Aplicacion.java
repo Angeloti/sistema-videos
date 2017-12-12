@@ -9,7 +9,7 @@ import ec.edu.ister.modelo.EjerciciosPrueba;
 
 /**
  *
- * @author Andres
+ 
  */
 public class Aplicacion {
     public static void main(String[] args) {
